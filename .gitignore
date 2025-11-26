@@ -1,0 +1,27 @@
+# Flutter Specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+build/
+
+# Android Specific
+android/.gradle/
+android/app/build/
+android/build/
+
+# iOS Specific
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Podfile.lock
+ios/Pods/
+
+# Gradle
+.gradle/
+
+# General
+*.iml
+.DS_Store
+local.properties
+*.log
+.idea/
